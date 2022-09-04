@@ -30,7 +30,7 @@ A Road Clone protfolio leanding page  created using
 ![road](./road.png)
 
 
-### [**Live link**](https://roadclone.app/)
+### [**Live link**](liveclass-road-clone.netlify.app)
 
 
 
